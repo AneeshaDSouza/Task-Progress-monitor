@@ -3,6 +3,31 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.css';
+
+
+
+/*
+ReactDOM.render(
+  <React.StrictMode>
+    <Counter />
+    <Counter1 />
+    <Counter2 />
+    <Counter3 />
+    <Counter4 />
+    <Counter5 />
+    <Counter6 />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+*/
+
+/*ReactDOM.render(
+  <React.StrictMode>
+    <Counters />
+  </React.StrictMode>,
+  document.getElementById('root')
+);*/
 
 ReactDOM.render(
   <React.StrictMode>
